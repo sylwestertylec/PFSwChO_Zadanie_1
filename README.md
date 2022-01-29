@@ -21,5 +21,5 @@ Uruchamianie
 3.  http://localhost
 ```
 \
-![Test Image 1](https://github.com/sylwestertylec/PPFSwChO_Zadanie_1/client/src/docker_ps.png)\
-    ![Test Image 2](https://github.com/sylwestertylec/PPFSwChO_Zadanie_1/client/src/working.png)\
+![Test Image 1](https://github.com/sylwestertylec/PPFSwChO_Zadanie_1/blob/main/client/src/docker_ps.png)\
+    ![Test Image 2](https://github.com/sylwestertylec/PPFSwChO_Zadanie_1/blob/main/client/src/working.png)\
