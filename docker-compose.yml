@@ -1,22 +1,22 @@
 version: "3"
 services:
   client:
-    image: "broffy/project1_cloud:fib-client"
+    image: "sylwestertylec/PFSwChO_Zadanie_1:fib-client"
     mem_limit: 128m
     hostname: client
   server:
-    image: "broffy/project1_cloud:fib-server"
+    image: "sylwestertylec/PFSwChO_Zadanie_1:fib-server"
     mem_limit: 128m
     hostname: api
   worker:
-    image: "broffy/project1_cloud:fib-worker"
+    image: "sylwestertylec/PFSwChO_Zadanie_1:fib-worker"
     mem_limit: 128m
     hostname: worker
     environment:
       - REDIS_HOST=$REDIS_HOST
       - REDIS_PORT=$REDIS_PORT
   nginx:
-    image: "broffy/project1_cloud:fib-nginx"
+    image: "sylwestertylec/PFSwChO_Zadanie_1:fib-nginx"
     mem_limit: 128m
     hostname: nginx
     ports:
