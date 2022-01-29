@@ -20,5 +20,5 @@ Uruchamianie
 ```
 3.  http://localhost
 ```
-https://github.com/sylwestertylec/PFSwChO_Zadanie_1/blob/main/client/src/test.png
+![Test Image 1](https://github.com/sylwestertylec/PFSwChO_Zadanie_1/blob/main/client/src/test.png)
 
